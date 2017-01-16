@@ -17,7 +17,7 @@
         android:id="@+id/textView" />
 
     <TextView
-        android:text="SourceTree is pretty cool. Too bad I'll only be using Git possibly."
+        android:text="Another change to my project which I can commit."
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="34dp"
@@ -26,13 +26,4 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView2"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="36dp"
-        android:id="@+id/textView3"
-        android:text="Will this commit to GitHub?" />
 </RelativeLayout>
